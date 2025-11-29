@@ -1,5 +1,5 @@
 ### Hi there 👋
-With 20+ years of experience, I've developed and launched many successful SaaS products in diverse sectors like healthcare, agriculture, tourism, and education, generating millions in revenue. I leverage Agile methodologies (Scrum, Kanban) and open-source tools to build high-performing teams and deliver innovative solutions. I've helped companies to scale systems to support millions of users. I'm passionate about creating user-centric solutions that make a real impact and contribute to positive change.
+I've developed and launched many successful SaaS products in diverse sectors like healthcare, agriculture, tourism, and education, generating millions in revenue. I leverage Agile methodologies (Scrum, Kanban) and open-source tools to build high-performing teams and deliver innovative solutions. I've helped companies to scale systems to support millions of users. I'm passionate about creating user-centric solutions that make a real impact and contribute to positive change.
 
 <!--
 **menilub/menilub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
